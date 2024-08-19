@@ -1,4 +1,4 @@
-# Indermediate Unity Game Developer
+# Intermediate Unity Game Developer
 
 ## Languages and Tools
 
